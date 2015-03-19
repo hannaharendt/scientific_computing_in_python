@@ -27,13 +27,13 @@ class Customer(object):
         # Implicit instance creation of Employee class object
     def printFood(self):
         print "%s ordered %s." %(self.name, self.food.name)
+
 class Employee(object):
     def __init__(self, name):
         self.name = name
     def takeOrder(self, foodName):
         return Food(foodName)
         
-
 class Food(object):
     def __init__(self, name):
         self.name = name
