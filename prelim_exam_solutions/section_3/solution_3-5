@@ -1,0 +1,12 @@
+Question 5:  Give three (3) critical distinctions that make classes more useful when it comes to building new objects.
+
+Answers:
+
+Customization via Inheritance:
+
+We can extend a class by redefining its attributes outside the class itself.  More generally, classes can build up namespace hierarchies, which define names to be used by other objects created from classes in the hierarchy.
+
+For our code to qualify as being truly object-oriented (OO) and not merely object-based, our objects will generally need to also participate in something called an inheritance hierarchy.  Inheritance is a mechanism of code customisation and reuse above and beyond anything we've so far.
+
+Because using classes well requires some up-front planning, they tend to be of more interest to people who work in strategic mode (doing long-term production development) than to people who work in tactical mode (where time is in very short supply).
+The correct answer is: Multiple Instance

@@ -1,0 +1,7 @@
+Question 11: 'Immutable' means an object cannot be changed in-place after they are created.  Which of the following are immutable?
+
+Answers:
+
+1.  Strings
+2.  Tuples
+3.  Sets

@@ -1,0 +1,7 @@
+Question 8:  Some python objects are called 'core' types because they are part of the Python language itself, 
+             are always available, and are hardwired into Python's syntax.
+
+Answer:  True
+
+Most of the core types have specific syntax for generating the objects.  In contrast, you must call the built-in open function 
+to create a file object or call functions in imported modules to create non-core object types in Python.

@@ -1,0 +1,7 @@
+Question 7:  Because Python is dynamically typed, it requires declaration code to keep track of types.
+
+Answer:  False
+
+The fact that Python is dynamically typed means it keeps track of types for you AUTOMATICALLY instead of requiring declaration code.
+However, it is strongly typed (you can perform on an object only operations that are valid for its type).
+

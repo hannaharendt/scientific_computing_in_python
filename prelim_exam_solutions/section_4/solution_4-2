@@ -1,0 +1,5 @@
+Question 2:  In general terms, when might you choose to use object embedding and composition instead of inheritance?
+
+Answer:
+
+Inheritance is best at coding extensions based on direct customisation.  Composition is well suited to scenarios where multiple objects are aggregated into a whole and directed by a controller layer class.  Inheritance passes calls up to reuse, and composition passed down to delegate.  Inheritance and composition are not mutually exclusive; in fact, objects embedded in a controller are themselves customisations based upon inheritance.

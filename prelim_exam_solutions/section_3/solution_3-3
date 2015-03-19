@@ -1,0 +1,18 @@
+Question 3:  Match the following class interface techniques with its appropriate description.
+
+Answers:
+
+Defines a method function and a delegate that expects an action in a subclass
+– Super,
+
+Doesn't provide any new names, so it gets everything defined in Super
+– Inheritor,
+
+Overrides Super's method with a version of its own
+– Replacer,
+
+Customizes Super's method by overriding and calling back to run the default
+– Extender,
+
+Implements the action method expected by Super's delegate method
+– Provider

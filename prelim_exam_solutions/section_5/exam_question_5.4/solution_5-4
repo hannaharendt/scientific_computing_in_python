@@ -1,0 +1,11 @@
+Here is sample:
+
+>>> person = {'name':('Eric', 'R.', 'Pincus'), 'age': '?', 'program': 'Computer Science'}
+
+>>> person['program']
+
+'Computer Science'
+
+>>> person['name'][1]
+
+'R.'

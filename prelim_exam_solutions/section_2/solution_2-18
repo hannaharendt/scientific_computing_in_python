@@ -1,0 +1,8 @@
+Question 18:  What calls a method, but does not inherit or define it - it expects the method to be filled in by a subclass?
+
+Answer:
+
+Abstract superclass
+
+This is often used as a way to generalise classes when behaviour cannot be predicted until a more specific subclass is coded.  
+OOP frameworks also use this as a way to dispatch to client-defined, customisable operations.

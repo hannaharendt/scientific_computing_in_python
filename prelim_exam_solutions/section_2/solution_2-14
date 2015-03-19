@@ -1,0 +1,7 @@
+Question 14:  The following are key points behind class instances:
+
+Answers:
+
+1.  Assignments to attributes of self in methods make per-instance attributes.
+2.  Calling a class object like a function makes a new instance object.
+3.  Each instance object inherits class attributes and gets its own namespace.

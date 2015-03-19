@@ -1,0 +1,7 @@
+Question 10:  A 'sequence' is a positionally ordered collection of objects.  Strings, lists, and tuples are all sequences
+              in Python.  The following are common sequence operations except:
+
+Answers:
+
+Append method
+Split method

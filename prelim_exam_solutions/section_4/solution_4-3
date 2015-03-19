@@ -1,0 +1,5 @@
+Question 3: Why is it better to customize by subclassing  rather than copying the original and modifying?
+
+Answer:
+
+Customizing with subclasses reduces development effort.  In OOP, we code by customising what has already been done, rather than copying or changing existing code.  This is the real 'big idea' in OOP - because we can easily extend our prior work by coding new subclasses, we can leverage what we've already done.  This is much better than either starting from scratch each time, or introducing multiple redundant copies of code that may all have to be updated in the future.

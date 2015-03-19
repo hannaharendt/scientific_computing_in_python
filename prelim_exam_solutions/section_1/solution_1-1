@@ -1,0 +1,9 @@
+Question 1:  Polymorphism is a property indicating that the meaning of an operation depends on the type of the objects 
+             being operated on.
+
+Answer:  True
+
+This turns out to be a key idea (perhaps the key idea) behind using Python well - not constraining code to specific types makes 
+that code automatically applicable to many types.  For example, the + operator performs addition when applied to numbers but 
+performs concatenation when applied to sequence objects such as strings and lists.  In fact, + can mean anything at all when 
+applied to objects you define with classes.

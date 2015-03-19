@@ -1,0 +1,6 @@
+Question 9:  A major rule of thumb in Python is to code for simplicity and readability first and worry about performance later, 
+             after your program is working, and after you've proved that there is a genuine performance concern.
+
+Answer:  True
+
+Shouldn't this be the philosophy of programming in general?  More often than not, your code will be quick enough as it is.

@@ -1,0 +1,7 @@
+Question 2:  Despite the fact that Python provides powerful object types as an intrinsic part of the language, there is still 
+             a need to code object implementation before you start solving problems.
+
+Answer:  False
+
+Not only do built-in object types make programming easier, but they're also more powerful and efficient than most of what can be 
+created from scratch.  Regardless of whether your implement new object types, built-in objects form the core of every Python program.

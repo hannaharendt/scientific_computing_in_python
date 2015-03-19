@@ -1,0 +1,8 @@
+Question 17:  The following are properties of assignment statements:
+
+Answers:
+
+1.  Assignments create object references.
+2.  Names are created when first assigned.
+3.  Some operations perform assignments implicitly.
+4.  Names must be assigned before being referenced.

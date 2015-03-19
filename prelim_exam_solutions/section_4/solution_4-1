@@ -1,0 +1,7 @@
+Question 1:  When does Python consider an object true?
+
+Answer:
+
+An object is considered true if it is either a nonzero number or a nonempty collection object.  The built-in words True or False are essentially predefined to have the same meanings as integer 1 and 0, respectively.
+Comments
+

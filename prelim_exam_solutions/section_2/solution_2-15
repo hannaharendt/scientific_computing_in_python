@@ -1,0 +1,10 @@
+Question 15:  The following are the main ideas behind overloading operators:
+
+Answers:
+
+1.  Such methods are called automatically when instances appear in built-in operations.
+2.  Operators allow classes to integrate with Python's object model.
+3.  Classes may override most built-in tyupe operations.
+4.  Methods named with double underscores(__X__) are special hooks.
+5.  There are no defaults for operator overloading methods, and none are required.
+

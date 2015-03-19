@@ -1,0 +1,30 @@
+General Overview of Section 3:
+
+Enumeration of Python concepts.
+
+Discussion primarily gleaned from:
+
+Reference:
+
+Lutz, M (2009). "Learning Python" (4th ed.). Sebastopol, CA: O' Reilly Media, Inc.
+
+Question in Section 3
+
+Question 1:  Enumerate the 4 class design patterns discussed (and briefly explain each).
+Question 2:  Give three advantages in using decorators and briefly explain each.
+Question 3:  Match the following class interface techniques with its appropriate description.
+Question 4:  What are the two main types of decorators?
+Question 5:  Give three (3) critical distinctions that make classes more useful when it comes to building new objects. 
+             (manually override marks)
+Question 6:  If a name R within the class Person is converted into a pseudo private attribute via name mangling:
+             (1)  What is the correct syntax of R to make it a pseudoprivate attribute?
+             (2)  How does the Python interpreter change the pseudoprivate attribute to map it locally to its class?  
+                  That is, the pseudoprivate attribute is dynamically converted to what expression?
+             (3)  What is the translated expression when an instance attribute (let's use the generic term 'self')  
+                  references a pseudoprivate attribute?
+             (manually override marks) 
+Question 7:  Give six (6) examples of core data types in Python (except program unit types, implementation-related types,
+             and other core types such as Booleans, types, none).
+             (manually override marks)
+Question 8:  What are the three major type (and operation) categories in Python?
+             (manually override marks)

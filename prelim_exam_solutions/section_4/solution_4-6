@@ -1,0 +1,5 @@
+Question 6:  Why is it so important to move processing into methods, instead of hardcoding it outside the class?
+
+Answer:
+
+It's important to move processing into methods so that there is only one copy to change in the future, and so that the methods can be run on any instance.  This is Python's notion of encapsulation - wrapping up logic behind interfaces to better support future code maintenance.  If you don't do so, you create code redundancy that can multiply your work efforts as the code evolves in the future.

@@ -1,0 +1,25 @@
+Exam Question 5.5
+
+Write a simple script/code that reads a protein sequence text file in fasta format (Info on the fasta format: http://en.wikipedia.org/wiki/FASTA_format), converts the uppercase letters to lowercase letters, and writes the converted data to a text file, fasta_output.txt.  
+
+The name of the file to be 'read in' should not be hardcoded inside your program but rather inputted as an argument when the program is run.
+
+That is, this is how the program should be implemented/run:
+
+python program.py fasta_input.txt  
+
+(--> should output a text file, fasta_output.txt in your current directory.)
+
+Please copy-paste the following fasta sequence to a text file and name it fasta_input.txt.  Use your favourite editor:
+
+>gi|5524211|gb|AAD44166.1| cytochrome b [Elephas maximus maximus]
+   LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFSAIPYIGTNLV
+   EWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGLTSDSDKIPFHPYYTIKDFLG
+   LLILILLLLLLALLSPDMLGDPDNHMPADPLNTPLHIKPEWYFLFAYAILRSVPNKLGGVLALFLSIVIL
+   GLMPFLHTSKHRSMMLRPLSQALFWTLTMDLLTLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGX
+   IENY
+
+
+Attach your program file, your input text file (fasta_input.txt), and your output text file (fasta_output.txt) to the corresponding question.
+
+ 

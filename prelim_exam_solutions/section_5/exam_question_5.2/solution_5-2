@@ -1,0 +1,5 @@
+The output is: (1,(2,3))
+
+The function accepts a variable and a tuple.
+The variable a is assigned the value 1,
+while the tuple 'pargs' argument is assigned the tuple (2,3).

@@ -1,0 +1,7 @@
+Question 4:  Which of the following operator overloading methods intercept attribute qualifications?
+
+Answer:
+
+ __getattr__ and __setattr__
+
+These two attribute access overloading methods allow you to control or specialise access to attributes in your objects.

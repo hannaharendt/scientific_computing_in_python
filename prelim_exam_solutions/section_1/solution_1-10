@@ -1,0 +1,7 @@
+Question 10:  In Python, expressions and built-in functions may work across a range of types, but methods are generally specific 
+              to object types - string methods, for example, work only on string objects.
+
+Answer:  True
+
+Methods are simply functions that are associated with particular objects.  Technically, they are attributes attached to objects 
+that happen to reference callable functions.

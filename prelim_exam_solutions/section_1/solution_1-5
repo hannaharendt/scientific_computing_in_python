@@ -1,0 +1,6 @@
+Question 5:  In Python, data takes the form of objects - either built-in objects that Python provides, 
+             or objects we create using Python or external language tools such as C extension libraries.
+
+Answer:  True
+
+Objects are essentially just pieces of memory, with values and sets of associated operations.

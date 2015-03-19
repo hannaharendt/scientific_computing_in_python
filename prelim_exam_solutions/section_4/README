@@ -1,0 +1,24 @@
+General Overview of Section 4:
+
+Brief Explanation/Description of Python concepts.
+
+Discussion primarily gleaned from:
+
+Reference:
+
+Lutz, M (2009). "Learning Python" (4th ed.). Sebastopol, CA: O' Reilly Media, Inc.
+
+Questions in Section 4
+
+Question 1:  When does Python consider an object true?
+Question 2:  In general terms, when might you choose to use object embedding and composition instead of inheritance?
+Question 3: Why is it better to customize by subclassing  rather than copying the original and modifying?
+Question 4:  What is the default for the processing mode argument in a file open call?
+Question 5:  What's wrong with saying Y = Y.sort()? (Where sort is a list method)
+Question 6:  Why is it so important to move processing into methods, instead of hardcoding it outside the class?
+Question 7:  What is the difference between a class object and an instance object?
+Question 8:  Why is the first argument in a class method function special?
+Question 9:  How can you determine how large a tuple is?  Why is this tool located where it is 
+             (why is this tool a built-in function and not a method)?
+Question 10:  Name three (3) ways that you can assign three variables to the same value.
+

@@ -1,0 +1,5 @@
+Question 19:  The following are properties of tuples except:
+
+Answer:
+
+Fixed-length, homogeneous, and arbitrarily nestable --> wrong because tuples are heterogeneous not homogeneous.

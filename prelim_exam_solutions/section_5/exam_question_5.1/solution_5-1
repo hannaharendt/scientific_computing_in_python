@@ -1,0 +1,3 @@
+The output is: (1,2,5)
+
+Notice that the default value of b = 4 is replaced in the function call by b = 2, and that although a third argument was not explicitly included in the function call, the value printed include the default value of the third argument.

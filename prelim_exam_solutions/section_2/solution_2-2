@@ -1,0 +1,11 @@
+Question 2:  A software design concept that wraps up operation logic behind interfaces, such that each operation is coded only once 
+             in our program.  That way, we're free to change the single copy's internals almost arbitrarily, without breaking the 
+             code that uses it.
+
+Answer:
+
+Encapsulation
+
+In Python, we do this by coding operation on objects in class methods, instead of littering them throughout our program.  
+In fact, this is one of the things that classes are very good at - factoring code to remove redundancy and thus optimise 
+maintainability.

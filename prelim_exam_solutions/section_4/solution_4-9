@@ -1,0 +1,6 @@
+Question 9:  How can you determine how large a tuple is?  Why is this tool located where it is 
+             (why is this tool a built-in function and not a method)?
+
+Answer:
+
+The built-in len function returns the length (number of contained items) for any container object in Python, including tuples.  It is a built-in function instead of a type method because it applies to many different types of objects.  In general, built-in functions and expressions may span many object types; methods are specific to a single object types, though some may be available on more than one type (index, for example, works on lists and tuples).

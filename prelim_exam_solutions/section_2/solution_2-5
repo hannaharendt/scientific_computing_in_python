@@ -1,0 +1,8 @@
+Question 5:  From a more concrete perspective, Python programs can be decomposed into modules, statements, expressions, and objects.
+
+Answer:
+
+Programs are composed of modules. 
+Modules contain statements.
+Statements contain expressions. 
+Expressions create and process objects.

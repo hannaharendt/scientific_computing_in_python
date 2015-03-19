@@ -1,0 +1,7 @@
+Question 1:  This involves wrapping an object in a proxy class, which adds extra behaviour 
+             and passes other operations to the wrapped object.  The proxy retains the interface of the wrapped object.
+
+
+Answer:
+
+Delegation

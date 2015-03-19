@@ -1,0 +1,11 @@
+Question 20:  Variables are simply names created by you or Python that are used to keep track of information in your program.  
+              The following statements about variables in Python are true except:
+
+Answer:
+
+Variables refer to objects and are declared ahead of time --> why this is wrong:
+
+Variables in Python are NEVER declared ahead of time.  Assignments cause the variables in Python to spring into existence
+AUTOMATICALLY.
+
+

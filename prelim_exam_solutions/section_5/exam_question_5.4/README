@@ -1,0 +1,7 @@
+Exam Question 5.4
+
+Please write your code in the space provided or attach your program file to this question.
+
+Nesting:  Write a data structure that a represents your personal information: name (first, middle, last), age, college year, degree program, address, email address, mobile number.  You may build the data with any combination of built-in object types you like (lists, tuples, dictionaries, string, numbers).  Then, access the individual components of your data structure by indexing.  Show the results when accessed via indexing.  
+
+Do some structures make more sense than others for this object?

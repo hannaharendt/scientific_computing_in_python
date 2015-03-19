@@ -1,0 +1,14 @@
+Question 10:  Name three (3) ways that you can assign three variables to the same value.
+
+Answer:
+
+Way 1:  multiple target assignments (A = B= C = 0)
+
+Way 2:  sequence assignment (A, B, C = 0, 0, 0)
+
+Way 3: multiple assignment statements (A=0, B=0,C=0) (Assume separate lines)
+
+You can also string the three separate statements together on the same line by separating them with semicolons:
+
+(A = 0; B = 0; C =0) (in one line)
+

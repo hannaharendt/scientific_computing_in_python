@@ -1,0 +1,15 @@
+Question 9:  The following are some of the important concepts in Python's OOP machinery, except:
+
+Answers:
+
+Customizing behavior - redefining methods in subclasses to specialise them
+Customizing constructors - adding initialisation logic to superclass steps
+Instance creation - filling out instance attributes
+Operator overloading - providing behavior for built-in operations like printing
+
+Answer to except:
+
+Behaviour methods - encapsulating logic by extending behaviour even outside of class methods
+
+Why this answer is wrong:  The concept of OOP with regard to behaviour methods is about encapsulating logic in class methods 
+rather than changing or exchanging behaviour or attribute outside of class statements.

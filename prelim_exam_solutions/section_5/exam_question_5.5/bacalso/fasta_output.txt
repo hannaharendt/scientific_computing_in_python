@@ -1,0 +1,6 @@
+GI|5524211|GB|aad44166.1| CYTOCHROME B [eLEPHAS MAXIMUS MAXIMUS]
+   lclythigrniyygsylysetwntgimlllitmatafmgyvlpwgqmsfwgatvitnlfsaipyigtnlv
+   ewiwggfsvdkatlnrffafhfilpftmvalagvhltflhetgsnnplgltsdsdkipfhpyytikdflg
+   llilillllllallspdmlgdpdnhmpadplntplhikpewyflfayailrsvpnklggvlalflsivil
+   glmpflhtskhrsmmlrplsqalfwtltmdlltltwigsqpveypytiigqmasilyfsiilaflpiagx
+   ieny

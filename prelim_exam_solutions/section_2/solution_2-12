@@ -1,0 +1,7 @@
+Question 12:  Python's implementation of OOP can be summarized by three ideas:
+
+Answers:
+
+1.  Encapsulation:  Methods and operators implement behavior; data hiding is a convention by default
+2.  Inheritance:  Inheritance is based on attribute lookup in Python (in X.name expressions)
+3.  Polymorphism:  in X.method, the meaning of method depends on the type (class) of X

@@ -1,0 +1,54 @@
+General Overview of Section 6
+
+Reading Comprehension
+
+This is the bonus section of the preliminary exam.
+
+References:
+
+Dabbish, Laura, Colleen Stuart, Jason Tsay, and Jim Herbsleb.  "Social Coding in GitHub: Transparency and Collaboration in an
+     Open Software Repository."  Session: Toolkits and Software Development, Computer-Supported Cooperative Work 
+     and Social Computing (CSCW), Association for Computing Machinery  (ACM) (2012): 1277 - 1286.  Electronic Resource.
+
+Miller, Robert, Haoqi Zhang, Eric Gilbert, Elizabeth Gerber. "Pair Research: Matching People for Collaboration, Learning, 
+     and Productivity." CSCW, ACM (2014): 1-6.  Electronic Resource.
+
+Cockburn, Alistair and Laurie Williams. "The Costs and Benefits of Pair Programming".  ACM Conference Paper: 1-11. 
+     Electronic Resource.  
+
+
+
+Questions in Section 6
+
+Section 6: Reading Comprehension
+
+
+PART 1: ON VERSION CONTROL SYSTEMS
+
+In the article, 'Social Coding in GitHub: Transparency and Collaboration in An Open Software Repository',  
+how did the authors answer their two main questions/goals:
+
+1.  What inferences do people make when transparency is integrated into a web-based workspace?
+2.  What is the value of transparency for collaboration in knowledge-based work?
+3.  Summarize the salient points of their methodology
+4.  Summarize the salient points of their results
+5.  Briefly summarise the discussion on the three types of higher-level collaborative activities (project management, 
+    learning through observing, and reputation management).
+
+PART 2: ON EFFECTIVE PROJECT MANAGEMENT, PIPELINE DEVELOPMENT, TEAM PROGRAMMING
+
+In the article, ’Pair Research: Matching People for Collaboration, Learning, and Productivity’:
+
+1.  Briefly explain the system discussed, Pair Research.  How is it different from conventional pair programming?
+2.  In the section Design Space of the said article, what are some of the considerations/questions discussed?  
+    Briefly summarize the salient points of this section of the article.
+3.  What are some of the drawbacks incurred in pair research that the authors promised to discuss in their future works?
+
+In the article, ’The Costs and Benefits of Pair Programming’:
+
+     4.  Briefly enumerate the costs and benefits of pair programming.
+     5.  Based on the two articles mentioned above (Pair Research and Pair Programming), how would you extend this concept, 
+         its advantages to 4 members in programming projects?  How would your design the project management aspect of your work 
+         to maximize the advantages and minimize the drawbacks discussed in these two articles?  
+         Concretely describe/explain your actionable plan for all 4 group members 
+         (answer this individually, based on your educated assessment of how it should be done; do not confer with group mates).

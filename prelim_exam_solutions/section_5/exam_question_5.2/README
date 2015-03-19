@@ -1,0 +1,11 @@
+Exam Question 5.2
+
+What is this code's output and why?
+
+>>> def func(a, *pargs):
+
+...          print(a, pargs)
+
+...
+
+>>> func(1, 2, 3)

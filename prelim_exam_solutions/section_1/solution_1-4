@@ -1,0 +1,6 @@
+Question 4:  If operator overloading methods are not coded, the Python interpreter have defaults to process 
+             instance object interfaces.
+
+Answer:  False
+
+Operator overloading methods do not have defaults and register an exception or error when not coded.

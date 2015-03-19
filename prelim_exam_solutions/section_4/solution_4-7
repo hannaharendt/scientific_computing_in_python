@@ -1,0 +1,7 @@
+Question 7:  What is the difference between a class object and an instance object?
+
+Answer:
+
+Both class and instance objects are namespaces (packages of variables that appear as attributes).  The main difference between them is that classes are a kind of factory for creating multiple instances.  Their attributes provide behaviour - data and functions - that is inherited by all the instances generated from them.
+
+Instances represent the concrete items in a program's domain.  Their attributes record data that varies per specific object.

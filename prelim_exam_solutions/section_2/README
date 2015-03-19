@@ -1,0 +1,60 @@
+General Overview of Section 2
+
+Multiple Choice 
+
+Discussion primarily gleaned from:
+
+Reference:
+
+Lutz, M (2009). "Learning Python" (4th ed.). Sebastopol, CA: O' Reilly Media, Inc.
+
+Question in Section 2
+
+Question 1:  This involves wrapping an object in a proxy class, which adds extra behaviour
+             and passes other operations to the wrapped object.  The proxy retains the interface of the wrapped object.
+
+Question 2:  A software design concept that wraps up operation logic behind interfaces, such that each operation is coded only once 
+             in our program.  That way, we're free to change the single copy's internals almost arbitrarily, without breaking the 
+             code that uses it.
+
+Question 3:  Method calls combine two operations at once.  What are these?
+
+Question 4:  Which of the following operator overloading methods intercept attribute qualifications?
+
+Question 5:  From a more concrete perspective, Python programs can be decomposed into modules, statements, expressions, and objects.
+
+Question 6:  The following are examples of specific Python statements.
+
+Question 7:  Python provides powerful object types as an intrinsic part of the language.  Here are some reasons why:
+
+Question 8:  Sequences are positionally ordered collection of objects.
+             Sequences maintain a left-to-right order among the items they contain: their items are stored and fetched
+             by their relative position.  Which of the following is NOT a sequence?
+
+Question 9:  The following are some of the important concepts in Python's OOP machinery, except:
+
+Question 10:  A 'sequence' is a positionally ordered collection of objects.  Strings, lists, and tuples are all sequences
+              in Python.  The following are common sequence operations except:
+
+Question 11: 'Immutable' means an object cannot be changed in-place after they are created.  Which of the following are immutable?
+
+Question 12:  Python's implementation of OOP can be summarized by three ideas:
+
+Question 13:  In Python, instances inherit from classes, and classes inherit from superclasses.
+              Here are the key ideas behind the machinery of attribute inheritance:
+
+Question 14:  The following are key points behind class instances:
+
+Question 15:  The following are the main ideas behind overloading operators:
+
+Question 16:  When we run a class statement, we get a class object.  The following are the main properties of Python classes:
+
+Question 17:  The following are properties of assignment statements:
+
+Question 18:  What calls a method, but does not inherit or define it - it expects the method to be filled in by a subclass?
+
+Question 19:  The following are properties of tuples except:
+
+Question 20:  Variables are simply names created by you or Python that are used to keep track of information in your program.
+              The following statements about variables in Python are true except:
+

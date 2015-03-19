@@ -1,0 +1,3 @@
+Exam Question 5.7
+
+Type code in space given or attach program file to this question:  Write an expression that changes the first item in a tuple.  (4, 5, 6) should become (1, 5, 6) in the process.  Explain why if done correctly, the process is not simple and direct compared to if the collection object is a list.

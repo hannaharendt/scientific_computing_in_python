@@ -1,0 +1,6 @@
+gi|5524211|gb|aad44166.1| cytochrome b [elephas maximus maximus]
+   lclythigrniyygsylysetwntgimlllitmatafmgyvlpwgqmsfwgatvitnlfsaipyigtnlv
+   ewiwggfsvdkatlnrffafhfilpftmvalagvhltflhetgsnnplgltsdsdkipfhpyytikdflg
+   llilillllllallspdmlgdpdnhmpadplntplhikpewyflfayailrsvpnklggvlalflsivil
+   glmpflhtskhrsmmlrplsqalfwtltmdlltltwigsqpveypytiigqmasilyfsiilaflpiagx
+   ieny

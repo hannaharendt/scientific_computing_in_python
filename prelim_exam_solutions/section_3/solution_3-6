@@ -1,0 +1,17 @@
+Question 6:
+
+If a name R within the class Person is converted into a pseudo private attribute via name mangling:
+
+(1)  What is the correct syntax of R to make it a pseudoprivate attribute?
+
+(2) How does the Python interpreter change the pseudoprivate attribute to map it locally to its class?  That is, the pseudoprivate attribute is dynamically converted to what expression?
+
+(3)  What is the translated expression when an instance attribute (let's use the generic term 'self')  references a pseudoprivate attribute?
+
+Answers:
+
+(1) __R
+
+(2) _Person__R
+
+(3)self._Person__R

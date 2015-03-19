@@ -1,0 +1,18 @@
+Question 7:  Python provides powerful object types as an intrinsic part of the language.  Here are some reasons why:
+
+Answer:
+
+1.  Built-in objects make programs easy to write
+
+For simple tasks, built-in types are often all you need to represent the structure of problem domains.  
+Because you get powerful tools such as collections (lists) and search tables (dictionaries) for free, you can use them immediately.
+You can get a lot of work done with Python's built-in object types alone.
+
+2.  Built-in objects are components of extensions
+
+Objects implemented manually are often built on top of built-in types such as lists and dictionaries.
+For instance, a stack data structure may be implemented as a class that manages or customises a built-in list.
+
+3.  Built-in objects are a standard part of the language
+
+Although you can implement unique object types in Python, you don't need to do so just to get started.

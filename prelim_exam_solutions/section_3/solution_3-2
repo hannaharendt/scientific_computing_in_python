@@ -1,0 +1,7 @@
+Question 2:  Give three advantages in using decorators and briefly explain each.
+
+Answers:
+
+1.  Decorators have a very explicit syntax.
+2.  Decorators are applied once.
+3.  Code maintenance and aesthetics foster encapsulation of code.

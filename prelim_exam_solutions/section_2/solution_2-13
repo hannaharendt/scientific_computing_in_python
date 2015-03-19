@@ -1,0 +1,10 @@
+Question 13:  In Python, instances inherit from classes, and classes inherit from superclasses.
+              Here are the key ideas behind the machinery of attribute inheritance:
+
+Answers:
+
+1.  Each object.attribute reference invokes a new, independent search.
+2.  Instances inherit attributes from all accessible classes.
+3.  Logic changes are made by subclassing, not by changing superclasses.
+4.  Superclasses are listed in parenthesis in a class header
+5.  Classes inherit attributes from their superclasses.

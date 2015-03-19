@@ -1,0 +1,7 @@
+Question 8:  Sequences are positionally ordered collection of objects.  
+             Sequences maintain a left-to-right order among the items they contain: their items are stored and fetched 
+             by their relative position.  Which of the following is NOT a sequence?
+
+Answer:
+
+Dictionaries:  Python dictionaries are not sequences at all, but are instead known as mappings.

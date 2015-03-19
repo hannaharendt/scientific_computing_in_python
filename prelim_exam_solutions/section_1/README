@@ -1,0 +1,38 @@
+General Overview of Section 1
+
+True or False
+
+Discussion primarily gleaned from:
+
+Reference:
+
+Lutz, M (2009). "Learning Python" (4th ed.). Sebastopol, CA: O' Reilly Media, Inc.
+
+
+Questions in Section 1
+
+Question 1:  Polymorphism is a property indicating that the meaning of an operation depends on the type of the objects 
+             being operated on.
+
+Question 2:  Despite the fact that Python provides powerful object types as an intrinsic part of the language, there is still
+             a need to code object implementation before you start solving problems.
+
+Question 3:  The current United Nations Secretary-General is Ban Ki-Moon.
+
+Question 4:  If operator overloading methods are not coded, the Python interpreter have defaults to process 
+             instance object interfaces.
+
+Question 5:  In Python, data takes the form of objects - either built-in objects that Python provides,
+             or objects we create using Python or external language tools such as C extension libraries.
+
+Question 6:  The Python core types are objects.  It therefore follows that they are object-oriented.
+
+Question 7:  Because Python is dynamically typed, it requires declaration code to keep track of types.
+
+Question 8:  Some python objects are called 'core' types because they are part of the Python language itself,
+             are always available, and are hardwired into Python's syntax.
+
+Question 9:  A major rule of thumb in Python is to code for simplicity and readability first and worry about performance later,
+             after your program is working, and after you've proved that there is a genuine performance concern.
+
+

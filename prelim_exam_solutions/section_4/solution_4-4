@@ -1,0 +1,5 @@
+Question 4:  What is the default for the processing mode argument in a file open call?
+
+Answer:
+
+The default for the processing mode argument in a file open call is 'r', for reading text input.  For input text files, simply pass in the external file's name.

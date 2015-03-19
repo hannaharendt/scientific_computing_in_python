@@ -1,0 +1,5 @@
+Question 6:  The Python core types are objects.  It therefore follows that they are object-oriented.
+
+Answer:  False
+
+Python objects are not necessarily object-oriented - a concept that usually requires inheritance and the Python class statement.

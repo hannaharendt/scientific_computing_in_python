@@ -1,0 +1,7 @@
+Question 5:  What's wrong with saying Y = Y.sort()? (Where sort is a list method)
+
+Answer:
+
+The list sort method is like append that it makes an in-place change to the subject list - it returns None, not the list it changes.  The assignment back to L sets L to None, not the sorted list.
+
+(There is a newer built-in function, sorted, which sorts any sequence and returns a new list with the sorting result; because this is not an in-place change, its result can be meaningfully assigned to a name.)

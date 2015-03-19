@@ -1,0 +1,7 @@
+Question 16:  When we run a class statement, we get a class object.  The following are the main properties of Python classes:
+
+Answers:
+
+1.  Class attributes provide object state and behavior.
+2.  Assignments inside class statements make class attributes.
+3.  The class statement creates a class object and assigns it a name.

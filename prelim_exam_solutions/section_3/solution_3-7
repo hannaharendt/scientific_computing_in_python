@@ -1,0 +1,13 @@
+Question 7:  Give six (6) examples of core data types in Python (except program unit types, implementation-related types,
+             and other core types such as Booleans, types, none).
+
+Answers:
+
+1.  Numbers
+2.  Strings
+3.  Lists
+4.  Dictionaries
+5.  Tuples
+6.  Files
+7.  Sets
+
